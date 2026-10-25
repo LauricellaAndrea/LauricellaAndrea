@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lauricellaandrea&label=Profile%20views&color=0e75b6&style=flat" alt="lauricellaandrea" /> </p>
 
-- 🌱 I’m currently learning **AI Agents, AI-powered web applications & agentic workflows**
+- 🌱 Continuously improving my expertise in **AI Agents, AI-powered web applications & agentic workflows**
 
 - 📫 How to reach me **andrealauricella97@gmail.com**
 
