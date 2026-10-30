@@ -18,4 +18,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lauricellaandrea&show_icons=true&locale=en&layout=compact" alt="lauricellaandrea" /></p>
 
+<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+  <picture>
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=LauricellaAndrea&color=22c55e&theme=dark&mode=mono&preset=wave&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=LauricellaAndrea&color=22c55e&theme=light&mode=mono&preset=wave&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=LauricellaAndrea&color=22c55e&theme=light&mode=mono&preset=wave&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" />
+  </picture>
+</a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lauricellaandrea&show_icons=true&locale=en" alt="lauricellaandrea" /></p>
