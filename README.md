@@ -18,8 +18,8 @@
 
 <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
   <picture>
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=LauricellaAndrea&color=388bfd&theme=dark&mode=mono&preset=wave&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=LauricellaAndrea&color=388bfd&theme=light&mode=mono&preset=wave&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
-    <img src="https://gitcolors.vercel.app/api/svg?username=LauricellaAndrea&color=388bfd&theme=light&mode=mono&preset=wave&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" alt="Contributions Graph" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=LauricellaAndrea&color=22c55e&theme=dark&mode=mono&preset=wave&animate=true&emptyColor=tint" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://gitcolors.vercel.app/api/svg?username=LauricellaAndrea&color=22c55e&theme=light&mode=mono&preset=wave&animate=true&emptyColor=tint" media="(prefers-color-scheme: light)" />
+    <img src="https://gitcolors.vercel.app/api/svg?username=LauricellaAndrea&color=22c55e&theme=light&mode=mono&preset=wave&animate=true&emptyColor=tint" width="846" height="132" style="height:auto" />
   </picture>
 </a>
